@@ -47,3 +47,7 @@ Dao ve entityService deki method isimlerine dikkat ediniz.
 Dto isimlendirmeleri, fieldları vs size bırakıyorum.
 Spring Data JPA da sorgu yazmak ile alakalı ya da otomatik sorguların nasıl yapıldığı ile alakalı da ufak
 bir araştırma yapmanız gerekecek. 
+
+
+#### Swagger Link
+- http://localhost:8080/swagger-ui/index.html#/
